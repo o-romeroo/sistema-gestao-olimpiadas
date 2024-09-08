@@ -14,5 +14,3 @@
 
 
 <img width="800px" height="500px" src="https://github.com/o-romeroo/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-de-classes.png"/>
-
-![Class Diagram](./imagens/diagrama_classe_lab01.png)
