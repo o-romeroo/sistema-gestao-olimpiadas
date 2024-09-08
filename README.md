@@ -1,5 +1,5 @@
 # sistema-gestao-olimpiadas
 
-Alunos: 
+##Alunos: 
 - João Vitor Romero Sales
 - Lucas Randazzo
