@@ -13,7 +13,6 @@
 | UC5 | Administrador | Gerar relatórios de medalhas                    | Visualizar o desempenho dos países com base nas medalhas conquistadas |
 
 
-<img width="500px" height="500px" src="https://[github.com/seunome/projeto-de-
-software/blob/main/trabalho-sgo/img/diagrama-de-caso-de-uso.png](https://github.com/o-romeroo/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-de-classes.png)"/>
+<img width="500px" height="500px" src="https://github.com/o-romeroo/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-de-classes.png"/>
 
 ![Class Diagram](./imagens/diagrama_classe_lab01.png)
