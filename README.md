@@ -27,4 +27,4 @@
 <img width="800px" height="500px" src="https://github.com/o-romeroo/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-de-componentes.png"/>
 
 ### Diagrama de implantação
-<img width="500px" height="500px" src="https://github.com/o-romeroo/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-de-implantacao.png"/>
+<img width="700px" height="400px" src="https://github.com/o-romeroo/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-de-implantacao.png"/>
