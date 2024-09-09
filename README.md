@@ -19,3 +19,11 @@
 
 ### Diagrama de pacotes
 <img width="800px" height="500px" src="https://github.com/o-romeroo/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-de-pacotes.png"/>
+
+### Diagrama caso de uso
+<img width="800px" height="500px" src="https://github.com/o-romeroo/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-caso-de-uso.png"/>
+
+### Diagrama de componentes
+<img width="800px" height="500px" src="https://github.com/o-romeroo/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-de-componentes.png"/>
+
+
