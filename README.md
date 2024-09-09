@@ -14,3 +14,5 @@
 
 
 <img width="800px" height="500px" src="https://github.com/o-romeroo/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-de-classes.png"/>
+
+<img width="800px" height="500px" src="https://github.com/o-romeroo/sistema-gestao-olimpiadas/blob/main/imagens/diagrama-de-pacotes.png"/>
